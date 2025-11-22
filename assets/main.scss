@@ -145,13 +145,27 @@ body {
 .page-content {
   flex: 1; // Allow content to grow but not push footer
   min-height: 0; // Prevent overflow
+  padding-bottom: 0; // Remove bottom padding
+}
+
+.page-content .wrapper {
+  padding-bottom: 0; // Remove bottom padding from wrapper
+}
+
+body .page-content .wrapper {
+  padding-bottom: 0; // Higher specificity to override Minima defaults
+}
+
+// Reduce space below final content div (about 25% less)
+.home-container > div:last-child {
+  margin-bottom: 0.75em; // Reduced from default ~1em (25% less)
 }
 
 // Responsive design
 @media (max-width: 768px) {
   .home-container {
     min-height: auto; // Let content determine height on mobile
-    padding: 1rem;
+    padding: 1rem 1rem 0 1rem; // Remove bottom padding on mobile
   }
   
   .home-container .site-title {
