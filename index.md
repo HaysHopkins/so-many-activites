@@ -12,12 +12,13 @@ layout: home
   </head>
   <body>
     <div class="home-container">
+      <div><h1><strong>Recovery is an Action</strong></h1></div>
+      <div><a href="{{ '/about' | relative_url }}">Our Mission Statement</a></div>
       <div class="image-container">
         <a href="/about">
           <img src="{{ '/assets/images/derby_city_recovery.png' | relative_url }}" alt="Site Image">
         </a>
       </div>
-      <div><h2><em>Recovery is an Action</em></h2></div>
       <div>Come chat, join a club, or start your own on <a href="https://discord.gg/mq6qjsbY">the DRC Discord server</a></div>
     </div>
   </body>
