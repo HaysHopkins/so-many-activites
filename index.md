@@ -5,16 +5,19 @@
 layout: home
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Derby City Recovery</title>
+  </head>
+  <body>
+    <div class="home-container">
+      <div class="image-container">
+        <img src="{{ '/assets/images/derby_city_recovery.png' | relative_url }}" alt="Site Image">
+      </div>
+      <div>Come chat, join a club, or start your own on <a href="https://discord.gg/mq6qjsbY">the DRC Discord server</a></div>
+    </div>
+  </body>
+</html>
 
-<div class="home-container">
-  <h1 class="site-title">{{ site.title }}</h1>
-  
-  <div class="image-container">
-    <p class="image-placeholder">Image placeholder - Add your image here</p>
-    <!-- Replace the above line with: <img src="{{ '/assets/images/your-image.jpg' | relative_url }}" alt="Site Image"> -->
-  </div>
-  
-  <p class="site-description">{{ site.description }}</p>
-</div>
 

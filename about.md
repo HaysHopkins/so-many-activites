@@ -1,19 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Events
+permalink: /join-us/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Current recurring events include:
+- Climbing Club - 3pm every Saturday at Climb Nulu
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+To chat with us or organize your own events come to [the DRC Discord server](https://discord.gg/mq6qjsbY).
 
