@@ -12,10 +12,6 @@ Harassment, predatory behavior, and disrespect of any kind will not be tolerated
 Whether you’re into hiking, art nights, book clubs, climbing, cooking, volunteering, or simply hanging out in good company, you’re invited to help shape this community. Bring your interests, your creativity, and your kindness—and feel free to start something new. This is a decentralized, grassroots space where all of us get to build the culture together.
 
 If you have ideas or want help launching a group or event, reach out.
-We’re glad you’re here.
+We're glad you're here.
 
-Current recurring events include:
-- **Climbing Club** - 3pm every Saturday at [Climb Nulu](https://www.climbnulu.com/)
-
-To chat with us or organize your own events come to [the DRC Discord server](https://discord.gg/mq6qjsbY).
-
+To chat with us or organize your own events come to the [DRC Discord server](https://discord.gg/mq6qjsbY).

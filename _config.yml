@@ -21,6 +21,11 @@ plugins:
 minima:
   skin: dark
 
+# Header pages (controls order in navigation)
+header_pages:
+  - about.md
+  - events.md
+
 # Exclude from processing
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
