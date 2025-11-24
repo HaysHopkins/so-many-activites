@@ -78,14 +78,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2; // Match heading line height
 }
 
-// Hide mobile version on desktop
-.site-footer .footer-discord-mobile {
-  display: none;
+// Show desktop version on desktop, hide mobile version
+.site-footer .footer-discord-desktop {
+  display: flex !important;
 }
 
-// Hide mobile version on desktop
 .site-footer .footer-discord-mobile {
-  display: none;
+  display: none !important;
 }
 
 code, pre {
