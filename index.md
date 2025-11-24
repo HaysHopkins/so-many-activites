@@ -21,7 +21,7 @@ layout: home
         </a>
       </div>
       <br>
-      <div>Come chat, join a club, or start your own on the <a href="https://discord.gg/mq6qjsbY" target="_blank" rel="noopener noreferrer">DRC Discord server.</a></div>
+      <div>Come chat, join a club, or start your own.</div>
     </div>
   </body>
 </html>
