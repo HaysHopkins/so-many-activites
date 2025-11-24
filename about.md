@@ -9,7 +9,7 @@ We are a recovery-minded community built on respect, curiosity, and shared exper
 What matters most here is how we treat one another.
 Harassment, predatory behavior, and disrespect of any kind will not be tolerated. Everyone deserves to feel safe, seen, and able to participate without fear of judgment or mistreatment. Recovery looks different for everyone, and honoring that diversity is core to who we are.
 
-Whether you’re into hiking, art nights, book clubs, climbing, cooking, volunteering, or simply hanging out in good company, you’re invited to help shape this community. Bring your interests, your creativity, and your kindness—and feel free to start something new. This is a decentralized, grassroots space where all of us get to build the culture together.
+Whether you’re into hiking, art nights, book clubs, climbing, cooking, volunteering, or simply hanging out in good company, you’re invited to help shape this community. Bring your interests, your creativity, and your kindness—and feel free to start something new. This is a decentralized space where all of us get to build the culture together.
 
 If you have ideas or want help launching a group or event, reach out.
 We're glad you're here.

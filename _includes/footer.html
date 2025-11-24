@@ -3,7 +3,13 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+      <a href="https://discord.gg/mq6qjsbY" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none; gap: 8px;">
+        <img src="{{ '/assets/images/discord-logo.svg' | relative_url }}" alt="Discord" style="height: 24px; width: 24px;">
+        <span>Come say hi!</span>
+      </a>
+    </div>
     
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-3">
