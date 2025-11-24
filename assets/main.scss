@@ -52,6 +52,42 @@ h1, h2, h3, h4, h5, h6 {
   color: $text-medium !important;
 }
 
+// Footer heading and Discord link alignment
+.site-footer .footer-top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; // Center align vertically
+  flex-wrap: wrap; // Allow wrapping on mobile
+  gap: 1rem; // Add gap for spacing
+  margin-bottom: 1rem;
+}
+
+.site-footer .footer-heading {
+  margin: 0; // Remove default h2 margins
+  flex-shrink: 0; // Prevent shrinking
+  line-height: 1.2; // Consistent line height
+}
+
+.site-footer .footer-discord-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  gap: 8px;
+  flex-shrink: 0; // Prevent shrinking
+  white-space: nowrap; // Prevent text wrapping
+  line-height: 1.2; // Match heading line height
+}
+
+// Hide mobile version on desktop
+.site-footer .footer-discord-mobile {
+  display: none;
+}
+
+// Hide mobile version on desktop
+.site-footer .footer-discord-mobile {
+  display: none;
+}
+
 code, pre {
   background-color: $bg-darker !important;
   color: $text-light !important;
@@ -185,5 +221,18 @@ body .page-content .wrapper {
   .site-header, .site-footer {
     display: block !important;
     visibility: visible !important;
+  }
+  
+  // Mobile responsive footer - show Discord link below description
+  .site-footer .footer-discord-desktop {
+    display: none !important; // Hide desktop version on mobile
+  }
+  
+  .site-footer .footer-discord-mobile {
+    display: flex !important; // Show mobile version
+    align-items: center;
+    gap: 8px;
+    margin-top: 1rem;
+    text-decoration: none;
   }
 }
