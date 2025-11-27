@@ -20,6 +20,6 @@ There is no right or wrong way to meditate. Whether your mind is racing or your 
 - [Satipaṭṭhāna Guided Meditations (Bhikkhu Anālayo)](https://buddhistinquiry.org/resources/satipatthana-audio/)
 - [Shambhala Guided Buddhist Meditations](https://www.shambhala.com/guidedbuddhistmeditations/?srsltid=AfmBOopU-TmrEGUrnyYoO3Gqh3HW4fUeLOt1i7h3VDFdoYMwPybEZPRn)
 - [Palouse Mindfulness - MBSR Audio Practices](https://palousemindfulness.com)
-- [Insight Meditation Center - Meditation Timer Audio](https://insightmeditationcenter.org/meditation-timers)
+- [Insight Meditation Center - Unguided Meditation Timer](https://insightmeditationcenter.org/meditation-timers)
 - [BuddhaNet - Buddhist Chanting Audio](https://buddhanet.net/audio-chant)
 - [Plum Village Chants and Songs](https://plumvillage.org/library/chants)
