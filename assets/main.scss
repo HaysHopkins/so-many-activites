@@ -6,7 +6,6 @@
 // Simple Dark Theme Colors
 $bg-dark: #121212;      // Main background
 $bg-darker: #1a1a1a;    // Cards/sections
-$bg-darkest: #0a0a0a;   // Headers/footers
 $text-light: #e0e0e0;   // Main text
 $text-medium: #b0b0b0;  // Secondary text
 $text-muted: #888888;   // Muted text
@@ -20,13 +19,13 @@ body {
   color: $text-light !important;
 }
 
-.page-content, .wrapper {
+.page-content .wrapper {
   background-color: $bg-dark !important;
   color: $text-light !important;
 }
 
 .site-header {
-  background-color: $bg-dark !important;
+  background-color: #061516 !important;
   border-bottom: 1px solid $border-dark !important;
 }
 
@@ -47,9 +46,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-footer {
-  background-color: $bg-dark !important;
+  background-color: #061516 !important;
   border-top: 1px solid $border-dark !important;
   color: $text-medium !important;
+  
+  .wrapper {
+    background-color: #061516 !important;
+  }
 }
 
 // Footer heading and Discord link alignment
@@ -111,21 +114,6 @@ blockquote {
   box-sizing: border-box;
 }
 
-// Custom home page title (override the header title styles)
-.home-container .site-title {
-  font-size: 3rem;
-  font-weight: bold;
-  margin-bottom: 1.5rem;
-  color: $text-light !important;
-}
-
-.site-description {
-  font-size: 1.25rem;
-  line-height: 1.6;
-  margin-bottom: 2rem;
-  color: $text-medium !important;
-  max-width: 600px;
-}
 
 .image-container {
   width: 100%;
@@ -147,11 +135,6 @@ blockquote {
     border-radius: 8px;
     display: block; // Ensure image is always visible
   }
-}
-
-.image-placeholder {
-  color: $text-muted !important;
-  font-style: italic;
 }
 
 // Ensure header and footer are always visible
@@ -203,14 +186,6 @@ body .page-content .wrapper {
     padding: 1rem 1rem 0 1rem; // Remove bottom padding on mobile
   }
   
-  .home-container .site-title {
-    font-size: 2rem;
-  }
-  
-  .site-description {
-    font-size: 1rem;
-  }
-  
   .image-container {
     min-height: 150px;
     margin: 0.5rem 0;
@@ -233,5 +208,40 @@ body .page-content .wrapper {
     gap: 8px;
     margin-top: 1rem;
     text-decoration: none;
+  }
+  
+  // Mobile hamburger menu icon background
+  .site-nav label[for="nav-trigger"] {
+    background-color: #258e96 !important;
+    border-color: #258e96 !important;
+    outline: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+  }
+  
+  .site-nav .menu-icon {
+    background-color: #258e96 !important;
+    border: 1px solid #258e96 !important;
+    background: #258e96 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    box-sizing: border-box !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  
+  .site-nav .menu-icon svg {
+    background-color: transparent !important;
+    background: transparent !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  .site-nav .menu-icon svg path {
+    fill: #ffffff !important;
   }
 }
