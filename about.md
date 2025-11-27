@@ -14,4 +14,5 @@ Whether you’re into hiking, art nights, book clubs, climbing, cooking, volunte
 If you have ideas or want help launching a group or event, reach out.
 We're glad you're here.
 
-To chat with us or organize your own events come to the [DRC Discord server](https://discord.gg/mq6qjsbY).
+<br>
+<strong>To chat with us or organize your own events join the [DRC Discord server](https://discord.gg/mq6qjsbY).</strong>
