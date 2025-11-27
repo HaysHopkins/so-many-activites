@@ -17,7 +17,7 @@ layout: home
       <br>
       <div class="image-container">
         <a href="/about">
-          <img src="{{ '/assets/images/derby_city_recovery.png' | relative_url }}" alt="Site Image">
+          <img src="{{ '/assets/images/derby-city-recovery.png' | relative_url }}" alt="Site Image">
         </a>
       </div>
       <br>
