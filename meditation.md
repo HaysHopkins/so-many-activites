@@ -11,14 +11,14 @@ There is no right or wrong way to meditate. Whether your mind is racing or your 
 <br>
 <h2><em>Resources</em></h2>
 
-- [Tara Brach - Guided Meditations](https://tarabrach.com/guided-meditations)
-- [UCLA Mindful - Free Guided Meditations](https://uclahealth.org/uclamindful/free-guided-meditations)
-- [AudioDharma - Guided Meditation Archive](https://audiodharma.org/series/1/talk/1835/)
-- [Tergar - Audio Library](https://learning.tergar.org/category/library/listen/)
-- [Ram Dass - Guided Meditation & Mantra Library](https://ramdass.org/guided-meditation-library)
-- [Satipaṭṭhāna Guided Meditations (Bhikkhu Anālayo)](https://buddhistinquiry.org/resources/satipatthana-audio/)
-- [Shambhala Guided Buddhist Meditations](https://www.shambhala.com/guidedbuddhistmeditations/?srsltid=AfmBOopU-TmrEGUrnyYoO3Gqh3HW4fUeLOt1i7h3VDFdoYMwPybEZPRn)
-- [Palouse Mindfulness - MBSR Audio Practices](https://palousemindfulness.com)
-- [Insight Meditation Center - Unguided Meditation Timer](https://insightmeditationcenter.org/meditation-timers)
-- [BuddhaNet - Buddhist Chanting Audio](https://buddhanet.net/audio-chant)
-- [Plum Village Chants and Songs](https://plumvillage.org/library/chants)
+- <a href="https://tarabrach.com/guided-meditations" target="_blank" rel="noopener noreferrer">Tara Brach - Guided Meditations</a>
+- <a href="https://uclahealth.org/uclamindful/free-guided-meditations" target="_blank" rel="noopener noreferrer">UCLA Mindful - Free Guided Meditations</a>
+- <a href="https://audiodharma.org/series/1/talk/1835/" target="_blank" rel="noopener noreferrer">AudioDharma - Guided Meditation Archive</a>
+- <a href="https://learning.tergar.org/category/library/listen/" target="_blank" rel="noopener noreferrer">Tergar - Audio Library</a>
+- <a href="https://ramdass.org/guided-meditation-library" target="_blank" rel="noopener noreferrer">Ram Dass - Guided Meditation & Mantra Library</a>
+- <a href="https://buddhistinquiry.org/resources/satipatthana-audio/" target="_blank" rel="noopener noreferrer">Satipaṭṭhāna Guided Meditations (Bhikkhu Anālayo)</a>
+- <a href="https://www.shambhala.com/guidedbuddhistmeditations/?srsltid=AfmBOopU-TmrEGUrnyYoO3Gqh3HW4fUeLOt1i7h3VDFdoYMwPybEZPRn" target="_blank" rel="noopener noreferrer">Shambhala Guided Buddhist Meditations</a>
+- <a href="https://palousemindfulness.com" target="_blank" rel="noopener noreferrer">Palouse Mindfulness - MBSR Audio Practices</a>
+- <a href="https://insightmeditationcenter.org/meditation-timers" target="_blank" rel="noopener noreferrer">Insight Meditation Center - Unguided Meditation Timer</a>
+- <a href="https://buddhanet.net/audio-chant" target="_blank" rel="noopener noreferrer">BuddhaNet - Buddhist Chanting Audio</a>
+- <a href="https://plumvillage.org/library/chants" target="_blank" rel="noopener noreferrer">Plum Village Chants and Songs</a>
