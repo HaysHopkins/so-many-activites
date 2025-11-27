@@ -12,7 +12,7 @@ There is no right or wrong way to meditate. Whether your mind is racing or your 
 <h2><em>Resources</em></h2>
 
 - <a href="https://tarabrach.com/guided-meditations" target="_blank" rel="noopener noreferrer">Tara Brach - Guided Meditations</a>
-- <a href="https://uclahealth.org/uclamindful/free-guided-meditations" target="_blank" rel="noopener noreferrer">UCLA Mindful - Free Guided Meditations</a>
+- <a href="https://uclahealth.org/uclamindful/free-guided-meditations" target="_blank" rel="noopener noreferrer">UCLA Mindful - Guided Meditations</a>
 - <a href="https://audiodharma.org/series/1/talk/1835/" target="_blank" rel="noopener noreferrer">AudioDharma - Guided Meditation Archive</a>
 - <a href="https://learning.tergar.org/category/library/listen/" target="_blank" rel="noopener noreferrer">Tergar - Audio Library</a>
 - <a href="https://ramdass.org/guided-meditation-library" target="_blank" rel="noopener noreferrer">Ram Dass - Guided Meditation & Mantra Library</a>
