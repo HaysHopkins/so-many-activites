@@ -4,7 +4,6 @@ title: Meditation
 permalink: /meditation/
 ---
 
-<br>
 There are a number of different approaches to and definitions of meditation. A good starting point is seeing it as a focused practice of mindfulness with the intention of expanding these mindful moments into daily life.
 
 There is no right or wrong way to meditate. Whether your mind is racing or your emotions are overwhelming, you are doing it right. The aim is to notice and gently acknowledge your thoughts and emotions as they come and go. Over time, you may become more familiar with the steady awareness that observes your experience and, in doing so, create more space between stimulus and reaction.
