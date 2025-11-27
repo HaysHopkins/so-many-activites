@@ -10,8 +10,8 @@ $text-light: #e0e0e0;   // Main text
 $text-medium: #b0b0b0;  // Secondary text
 $text-muted: #888888;   // Muted text
 $border-dark: #333333;  // Borders
-$accent-blue: #4a9eff;  // Links
-$accent-cyan: #00d4ff;  // Hover states
+$accent-blue: #AFD1D5;  // Links
+$accent-cyan: #AFD1D5;  // Hover states
 
 // Apply Simple Dark Theme
 body {
@@ -34,10 +34,10 @@ body {
 }
 
 a, a:visited {
-  color: $accent-blue !important;
+  color: #AFD1D5 !important;
   
   &:hover {
-    color: $accent-cyan !important;
+    color: #AFD1D5 !important;
   }
 }
 
