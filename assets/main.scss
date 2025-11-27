@@ -212,36 +212,37 @@ body .page-content .wrapper {
   
   // Mobile hamburger menu icon background
   .site-nav label[for="nav-trigger"] {
-    background-color: #258e96 !important;
-    border-color: #258e96 !important;
-    outline: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    box-sizing: border-box !important;
+    background-color: #258e96;
+    border-color: #258e96;
+    border-radius: 4px;
+    overflow: hidden;
+    outline: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
   }
   
   .site-nav .menu-icon {
-    background-color: #258e96 !important;
-    border: 1px solid #258e96 !important;
-    background: #258e96 !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    width: 100% !important;
-    height: 100% !important;
-    box-sizing: border-box !important;
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
+    background-color: #258e96;
+    border: 1px solid #258e96;
+    border-radius: 4px;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .site-nav .menu-icon svg {
-    background-color: transparent !important;
-    background: transparent !important;
-    margin: 0 !important;
-    padding: 0 !important;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
   }
   
   .site-nav .menu-icon svg path {
-    fill: #ffffff !important;
+    fill: #ffffff;
   }
 }
