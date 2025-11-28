@@ -11,7 +11,7 @@ There is no right or wrong way to meditate. Whether your mind is racing or your 
 <br>
 If you find yourself wanting more structure, <a href="https://www.vipassanadhura.com/howto.htm" target="_blank" rel="noopener noreferrer">this guide</a> offers a clear, practical introduction.
 <hr>
-
+<br>
 <h2><em>Resources</em></h2>
 <h3>Audio</h3>
 
