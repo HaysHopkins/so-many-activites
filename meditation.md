@@ -27,7 +27,10 @@ There is no right or wrong way to meditate. Whether your mind is racing or your 
 <h3>Teachers</h3>
 
 - <a href="https://adyashanti.opengatesangha.org/" target="_blank" rel="noopener noreferrer">Adyashanti</a>
+- <a href="https://tarabrach.com/" target="_blank" rel="noopener noreferrer">Tara Brach</a>
 - <a href="https://pemachodronfoundation.org/" target="_blank" rel="noopener noreferrer">Pema Chodron</a>
 - <a href="https://thichnhathanhfoundation.org/" target="_blank" rel="noopener noreferrer">Thích Nhất Hạnh</a>
+- <a href="https://www.samharris.org/" target="_blank" rel="noopener noreferrer">Sam Harris</a>
 - <a href="https://www.sharonsalzberg.com/" target="_blank" rel="noopener noreferrer">Sharon Salzberg</a>
+- <a href="https://eckharttolle.com/" target="_blank" rel="noopener noreferrer">Eckhart Tolle</a>
 - <a href="https://alanwatts.org/" target="_blank" rel="noopener noreferrer">Alan Watts</a>
