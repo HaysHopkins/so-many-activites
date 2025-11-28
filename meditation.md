@@ -8,9 +8,10 @@ There are a number of different approaches to and definitions of meditation. A g
 
 There is no right or wrong way to meditate. Whether your mind is racing or your emotions are overwhelming, you are doing it right. The aim is to notice and gently acknowledge your thoughts and emotions as they come and go. Over time, you will become more familiar with the steady awareness that observes your experience and, in doing so, create more space between stimulus and reaction.
 
-If you find yourself wanting more structure, <a href="https://www.vipassanadhura.com/howto.htm" target="_blank" rel="noopener noreferrer">this guide</a> offers a clear, practical introduction.
-
 <br>
+If you find yourself wanting more structure, <a href="https://www.vipassanadhura.com/howto.htm" target="_blank" rel="noopener noreferrer">this guide</a> offers a clear, practical introduction.
+<hr>
+
 <h2><em>Resources</em></h2>
 <h3>Audio</h3>
 
