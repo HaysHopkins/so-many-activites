@@ -9,7 +9,7 @@ There are a number of different approaches to and definitions of meditation. A g
 There is no right or wrong way to meditate. Whether your mind is racing or your emotions are overwhelming, you are doing it right. The aim is to notice and gently acknowledge your thoughts and emotions as they come and go. Over time, you will become more familiar with the steady awareness that observes your experience and, in doing so, create more space between stimulus and reaction.
 
 <br>
-<h2><em>Resources</em></h2>
+<h3>Audio</h3>
 
 - <a href="https://tarabrach.com/guided-meditations" target="_blank" rel="noopener noreferrer">Tara Brach - Guided Meditations</a>
 - <a href="https://uclahealth.org/uclamindful/free-guided-meditations" target="_blank" rel="noopener noreferrer">UCLA Mindful - Guided Meditations</a>
@@ -22,3 +22,10 @@ There is no right or wrong way to meditate. Whether your mind is racing or your 
 - <a href="https://insightmeditationcenter.org/meditation-timers" target="_blank" rel="noopener noreferrer">Insight Meditation Center - Unguided Meditation Timer</a>
 - <a href="https://buddhanet.net/audio-chant" target="_blank" rel="noopener noreferrer">BuddhaNet - Buddhist Chanting Audio</a>
 - <a href="https://plumvillage.org/library/chants" target="_blank" rel="noopener noreferrer">Plum Village Chants and Songs</a>
+
+<h3>Teachers</h3>
+
+- <a href="https://adyashanti.opengatesangha.org/" target="_blank" rel="noopener noreferrer">Adyashanti</a>
+- <a href="https://pemachodronfoundation.org/" target="_blank" rel="noopener noreferrer">Pema Chodron</a>
+- <a href="https://alanwatts.org/" target="_blank" rel="noopener noreferrer">Alan Watts</a>
+- <a href="https://thichnhathanhfoundation.org/" target="_blank" rel="noopener noreferrer">Thích Nhất Hạnh</a>
