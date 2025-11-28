@@ -6,10 +6,15 @@ permalink: /meditation/
 
 There are a number of different approaches to and definitions of meditation. A good starting point is seeing it as a focused practice of mindfulness with the intention of expanding these mindful moments into daily life.
 
-There is no right or wrong way to meditate. Whether your mind is racing or your emotions are overwhelming, you are doing it right. The aim is to notice and gently acknowledge your thoughts and emotions as they come and go. Over time, you will become more familiar with the steady awareness that observes your experience and, in doing so, create more space between stimulus and reaction.
+Meditation can be practiced in fully secular ways, and no specific beliefs are required. There is no right or wrong way to meditate. Whether your mind is racing or your emotions are overwhelming, you are doing it right.
 
+The aim is to notice and gently acknowledge your thoughts and emotions as they come and go. Over time, you will become more familiar with the steady awareness that observes your experience and, in doing so, create more space between stimulus and reaction.
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/meditation.png' | relative_url }}" alt="Meditation" width="60" height="60">
+</div>
 <br>
 If you find yourself wanting more structure, <a href="https://www.vipassanadhura.com/howto.htm" target="_blank" rel="noopener noreferrer">this guide</a> offers a clear, practical introduction.
+
 <hr>
 <br>
 <h2><em>Resources</em></h2>
