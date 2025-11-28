@@ -34,3 +34,6 @@ There is no right or wrong way to meditate. Whether your mind is racing or your 
 - <a href="https://www.sharonsalzberg.com/" target="_blank" rel="noopener noreferrer">Sharon Salzberg</a>
 - <a href="https://eckharttolle.com/" target="_blank" rel="noopener noreferrer">Eckhart Tolle</a>
 - <a href="https://alanwatts.org/" target="_blank" rel="noopener noreferrer">Alan Watts</a>
+
+<h3>Texts</h3>
+- <a href="https://www.bdkamerica.org/tripitaka-list/" target="_blank" rel="noopener noreferrer">The Tripitaka:<br> Scholarly Translations of Early Buddhist Scriptures — available for free in PDF</a>
