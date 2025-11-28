@@ -16,4 +16,4 @@ We're glad you're here.
 
 <br>
 <hr>
-<strong>To chat with us or organize your own events join the <a href="https://discord.gg/mq6qjsbY" target="_blank" rel="noopener noreferrer">DRC Discord server</a>.</strong>
+<strong>To chat with us or organize your own events join the <a href="https://discord.gg/eFcx59mM" target="_blank" rel="noopener noreferrer">DRC Discord server</a>.</strong>
