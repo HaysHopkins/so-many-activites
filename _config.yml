@@ -24,7 +24,7 @@ minima:
 # Header pages (controls order in navigation)
 header_pages:
   - about.md
-  - events.md
+  - groups.md
   - meditation.md
 
 # Exclude from processing

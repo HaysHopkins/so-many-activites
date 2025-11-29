@@ -212,8 +212,8 @@ body .page-content .wrapper {
   
   // Mobile hamburger menu icon background
   .site-nav label[for="nav-trigger"] {
-    background-color: #258e96;
-    border-color: #258e96;
+    background-color: #e7e7e7;
+    border-color: #e7e7e7;
     border-radius: 4px;
     overflow: hidden;
     outline: none;
@@ -223,8 +223,8 @@ body .page-content .wrapper {
   }
   
   .site-nav .menu-icon {
-    background-color: #258e96;
-    border: 1px solid #258e96;
+    background-color: #e7e7e7;
+    border: 1px solid #e7e7e7;
     border-radius: 4px;
     padding: 0;
     margin: 0;
@@ -243,7 +243,27 @@ body .page-content .wrapper {
   }
   
   .site-nav .menu-icon svg path {
-    fill: #ffffff;
+    fill: #258e96;
+  }
+  
+  // Mobile menu panel background
+  .site-nav .trigger {
+    background-color: #e7e7e7 !important;
+  }
+  
+  // Style the nav container area above the menu items when menu is open
+  .site-nav:has(.nav-trigger:checked) {
+    background-color: #e7e7e7 !important;
+  }
+  
+  // Make Join Us link full width in mobile menu
+  .site-nav .trigger .join-us-link {
+    width: 100%;
+    display: block;
+    text-align: center !important;
+    box-sizing: border-box;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -254,4 +274,13 @@ hr {
   border-top: 1px solid #ccc;
   margin: 1em 0;
   padding: 0;
+}
+
+// Join Us link styling with dotted border
+.join-us-link {
+  border: 2px dashed #bea925 !important;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  display: inline-block;
+  box-sizing: border-box;
 }
