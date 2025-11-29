@@ -23,6 +23,7 @@ If you find yourself wanting more structure, <a href="https://www.vipassanadhura
 
 - <a href="https://tarabrach.com/guided-meditations" target="_blank" rel="noopener noreferrer">Tara Brach - Guided Meditations</a>
 - <a href="https://uclahealth.org/uclamindful/free-guided-meditations" target="_blank" rel="noopener noreferrer">UCLA Mindful - Guided Meditations</a>
+- <a href="https://www.mindful.org/category/mindful-skills/meditation/guided-meditation/" target="_blank" rel="noopener noreferrer">Mindful.org - Guided Meditations</a>
 - <a href="https://audiodharma.org/series/1/talk/1835/" target="_blank" rel="noopener noreferrer">AudioDharma - Guided Meditation Archive</a>
 - <a href="https://learning.tergar.org/category/library/listen/" target="_blank" rel="noopener noreferrer">Tergar - Audio Library</a>
 - <a href="https://ramdass.org/guided-meditation-library" target="_blank" rel="noopener noreferrer">Ram Dass - Guided Meditation & Mantra Library</a>

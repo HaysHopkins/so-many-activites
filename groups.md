@@ -9,5 +9,5 @@ Current recurring groups include:
 
 <br>
 <hr>
-<strong>To chat with us or organize your own groups join the <a href="https://discord.gg/eFcx59mM" target="_blank" rel="noopener noreferrer">DRC Discord server</a>.</strong>
+<strong>To join interest groups and ad hoc events join our <a href="https://discord.gg/eFcx59mM" target="_blank" rel="noopener noreferrer">Discord server</a>.</strong>
 

@@ -22,7 +22,7 @@ layout: home
       </div>
       <br>
       <div>Come chat, join a club, or start your own.</div>
-      <div><strong><a href="{{ '/groups' | relative_url }}" style="text-decoration: underline;">View Groups</a></strong></div>
+      <div><strong><a href="{{ '/groups' | relative_url }}" style="text-decoration: underline;">View Evengs</a></strong></div>
       <br>
     </div>
   </body>

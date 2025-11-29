@@ -4,16 +4,16 @@ title: Climbing Club
 permalink: /groups/climbing/
 ---
 
-Climbing is a full-body exercise, combining strength, flexibility, and body-weight control in a way that feels like play. Every climb engages mobility and core stability as you balance and reach for the next hold. Mentally, each route is its own puzzle—inviting curiosity, experimentation, and problem-solving. 
+Climbing is a full-body exercise, combining strength and in a way that feels like play. Every climb engages mobility and core stability as you balance and reach for the next hold. Mentally, each route is its own puzzle—inviting curiosity, experimentation, and problem-solving. 
 
-When you’re on the wall, it becomes difficult to focus on anything else. This deep absorption is often referred to as a flow state, which is marked by a sharpened focus and deeper presence. The result is a practice that strengthens both body and mind while keeping the experience fun!
+When you’re on the wall, it becomes difficult to focus on anything else. This deep absorption is often referred to as 'flow state', which is marked by a sharpened focus and deeper presence. The result is a practice that strengthens both body and mind while keeping the experience fun!
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/climbing.png' | relative_url }}" alt="Climbing" width="60" height="60">
 </div>
 
 <hr>
-**Meets 3pm every Saturday at** - <a href="https://www.climbnulu.com/" target="_blank" rel="noopener noreferrer">Climb Nulu</a>
+**Meets 3pm every Saturday at** <a href="https://www.climbnulu.com/" target="_blank" rel="noopener noreferrer">Climb Nulu</a>
 
 <br>
 <h2>Tips for Beginners</h2>
