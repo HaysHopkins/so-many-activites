@@ -45,4 +45,5 @@ If you find yourself wanting more structure, <a href="https://www.vipassanadhura
 - <a href="https://alanwatts.org/" target="_blank" rel="noopener noreferrer">Alan Watts</a>
 
 <h3>Texts</h3>
-- <a href="https://www.bdkamerica.org/tripitaka-list/" target="_blank" rel="noopener noreferrer">The Tripitaka:<br> Scholarly Translations of Early Buddhist Scriptures — available for free in PDF</a>
+- <a href="https://www.bdkamerica.org/product/the-teaching-of-buddha-english-hardcover-edition/" target="_blank" rel="noopener noreferrer">The Teaching of Buddha:<br> A compilation of basic teachings from the Buddhist canon — free PDF</a>
+- <a href="https://www.bdkamerica.org/tripitaka-list/" target="_blank" rel="noopener noreferrer">The Tripitaka:<br> Scholarly Translations of Early Buddhist Scriptures — free PDFs</a>
