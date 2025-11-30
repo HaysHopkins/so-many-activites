@@ -12,7 +12,7 @@ layout: home
   </head>
   <body>
     <div class="home-container">
-      <div><h1><strong>Recovery is an Action</strong></h1></div>
+      <div><h1 class="recovery-heading"><strong>Recovery is an Action</strong></h1></div>
       <div><a href="{{ '/about' | relative_url }}">Our Mission Statement</a></div>
       <br>
       <div class="image-container">
@@ -22,7 +22,7 @@ layout: home
       </div>
       <br>
       <div>Come chat, join a club, or start your own.</div>
-      <div><strong><a href="{{ '/groups' | relative_url }}" style="text-decoration: underline;">View Evengs</a></strong></div>
+      <div><strong><a href="{{ '/groups' | relative_url }}" style="text-decoration: underline;">View Events</a></strong></div>
       <br>
     </div>
   </body>

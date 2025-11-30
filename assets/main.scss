@@ -179,11 +179,24 @@ body .page-content .wrapper {
   margin-bottom: 0.75em; // Reduced from default ~1em (25% less)
 }
 
+// Recovery heading - h1 on desktop, h2 on mobile
+.recovery-heading {
+  // Default h1 styling (desktop)
+}
+
 // Responsive design
 @media (max-width: 768px) {
   .home-container {
     min-height: auto; // Let content determine height on mobile
     padding: 1rem 1rem 0 1rem; // Remove bottom padding on mobile
+  }
+  
+  // Make recovery heading appear as h2 on mobile
+  .recovery-heading {
+    font-size: 1.5em; // h2 font size (relative to parent)
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    font-weight: bold;
   }
   
   .image-container {
