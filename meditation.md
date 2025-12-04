@@ -8,7 +8,7 @@ There are a number of different approaches to and definitions of meditation. A g
 
 Meditation can be practiced in fully secular ways, and no specific beliefs are required. There is no right or wrong way to meditate. Whether your mind is racing or your emotions are overwhelming, you are doing it right.
 
-The aim is to notice and gently acknowledge your thoughts and emotions as they come and go. Over time, you will become more familiar with the steady awareness that observes your experience and, in doing so, create more space between stimulus and reaction.
+The aim is to notice and gently acknowledge your thoughts and emotions as they come and go. Over time, you will become more familiar with the steady awareness that observes your experience and, in doing so, begin to feel more grounded in the midst of whatever arises.
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/meditation.png' | relative_url }}" alt="Meditation" width="60" height="60">
@@ -18,7 +18,7 @@ The aim is to notice and gently acknowledge your thoughts and emotions as they c
 If you find yourself wanting more structure, <a href="https://www.vipassanadhura.com/howto.htm" target="_blank" rel="noopener noreferrer">this guide</a> offers a clear, practical introduction.
 
 <br>
-<h2><em>Resources</em></h2>
+<h2><em>Free Resources</em></h2>
 <h3>Audio</h3>
 
 - <a href="https://tarabrach.com/guided-meditations" target="_blank" rel="noopener noreferrer">Tara Brach - Guided Meditations</a>
@@ -46,5 +46,6 @@ If you find yourself wanting more structure, <a href="https://www.vipassanadhura
 - <a href="https://alanwatts.org/" target="_blank" rel="noopener noreferrer">Alan Watts</a>
 
 <h3>Texts</h3>
-- <a href="https://www.bdkamerica.org/product/the-teaching-of-buddha-english-hardcover-edition/" target="_blank" rel="noopener noreferrer">The Teaching of Buddha:<br> A compilation of basic teachings from the Buddhist canon — free PDF</a>
-- <a href="https://www.bdkamerica.org/tripitaka-list/" target="_blank" rel="noopener noreferrer">The Tripitaka:<br> Scholarly Translations of Early Buddhist Scriptures — free PDFs</a>
+- <a href="https://www.holybooks.com/wp-content/uploads/The-Way-of-Liberation-by-Adyashanti.pdf" target="_blank" rel="noopener noreferrer">The Way of Liberation - Adyashanti</a>
+- <a href="https://www.bdkamerica.org/product/the-teaching-of-buddha-english-hardcover-edition/" target="_blank" rel="noopener noreferrer">The Teaching of Buddha - Abridged Buddhist Canon</a>
+- <a href="https://www.bdkamerica.org/tripitaka-list/" target="_blank" rel="noopener noreferrer">The Tripitaka - The Complete Pali Canon</a>
