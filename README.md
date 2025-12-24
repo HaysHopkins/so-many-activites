@@ -1,39 +1,64 @@
-# Jekyll GitHub Pages Site
+# So Many Activities
 
-This is a Jekyll-based GitHub Pages site. 
+This repository contains two separate applications:
 
-## Getting Started
+1. **Jekyll GitHub Pages Site** (`site/`) - A static site deployed to GitHub Pages
+2. **Go Wiki Application** (`app/`) - A web-based wiki application built with Go
 
-1. Install Jekyll and Bundler:
+## Project Structure
+
+```
+.
+├── site/          # Jekyll GitHub Pages site
+│   ├── _config.yml
+│   ├── index.md
+│   ├── Gemfile
+│   └── ...
+├── app/           # Go wiki web application
+│   ├── wiki.go
+│   ├── tmpl/
+│   ├── data/
+│   └── go.mod
+└── .github/
+    └── workflows/
+        └── jekyll.yml  # GitHub Pages deployment workflow
+```
+
+## Jekyll Site (`site/`)
+
+### Getting Started
+
+1. Navigate to the site directory:
+   ```bash
+   cd site
+   ```
+
+2. Install Jekyll and Bundler:
    ```bash
    gem install bundler
    ```
 
-2. Install dependencies:
+3. Install dependencies:
    ```bash
    bundle install
    ```
 
-3. Build and serve the site locally:
+4. Build and serve the site locally:
    ```bash
    bundle exec jekyll serve
    ```
 
-4. Visit `http://localhost:4000` in your browser.
+5. Visit `http://localhost:4000` in your browser.
 
-## Project Structure
+### Deployment
 
-- `_config.yml` - Jekyll configuration file
-- `index.md` - Home page
-- `about.md` - About page
-- `_posts/` - Directory containing blog posts
-- `Gemfile` - Ruby dependencies managed by Bundler
+The Jekyll site is automatically deployed to GitHub Pages when you push to the `main` branch. The workflow builds from the `site/` directory.
 
-## Adding Content
+### Adding Content
 
-### Adding a New Page
+#### Adding a New Page
 
-Create a new `.md` file in the root directory with the following front matter:
+Create a new `.md` file in the `site/` directory with the following front matter:
 
 ```yaml
 ---
@@ -43,9 +68,9 @@ permalink: /your-url-path/
 ---
 ```
 
-### Adding a New Post
+#### Adding a New Post
 
-Create a new file in the `_posts/` directory with the format `YYYY-MM-DD-post-name.md`:
+Create a new file in the `site/_posts/` directory with the format `YYYY-MM-DD-post-name.md`:
 
 ```yaml
 ---
@@ -56,11 +81,41 @@ categories: category1 category2
 ---
 ```
 
+## Go Wiki Application (`app/`)
+
+A simple wiki web application based on the [Go wiki tutorial](https://go.dev/doc/articles/wiki/).
+
+### Getting Started
+
+1. Navigate to the app directory:
+   ```bash
+   cd app
+   ```
+
+2. Make sure you have Go installed (version 1.21 or later)
+
+3. Run the application:
+   ```bash
+   go run wiki.go
+   ```
+
+4. Visit `http://localhost:8080/view/ANewPage` in your browser to create and edit a new page.
+
+### Features
+
+- View wiki pages
+- Edit wiki pages
+- Save wiki pages to disk
+- Simple HTML templates for viewing and editing
+
+For more details, see the [app/README.md](app/README.md) file.
+
 ## Deployment
 
-This site is configured to work with GitHub Pages. Once you push to your repository and configure GitHub Pages in the repository settings, your site will be automatically built and deployed.
+- **Jekyll Site**: Automatically deployed to GitHub Pages when pushing to the `main` branch. The workflow builds from the `site/` directory.
+- **Go Wiki**: This is a standalone application that needs to be deployed separately (e.g., to a cloud service, VPS, or container platform).
 
-For more information, see:
+For more information about Jekyll and GitHub Pages:
 - [Creating a GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
 - [Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
 

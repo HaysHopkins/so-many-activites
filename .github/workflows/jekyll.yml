@@ -40,18 +40,21 @@ jobs:
           ruby-version: '3.3' # Updated to 3.3 to support sass-embedded >= 3.2
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 1 # Incremented to clear old cache with Ruby 3.1
+          working-directory: ./site
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        # Using empty baseurl for custom domain (not project subdirectory)
+        # Build from the site/ directory
         run: bundle exec jekyll build
+        working-directory: ./site
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
+        # Upload from the site/_site directory
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site/_site
 
   # Deployment job
   deploy:
